@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function Homepage() {
     /* This example requires Tailwind CSS v2.0+ */
     /* This example requires Tailwind CSS v2.0+ */

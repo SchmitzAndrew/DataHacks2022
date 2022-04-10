@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Homepage from "../components/Homepage";
 
 export default function Index() {
